@@ -19,8 +19,8 @@ Aplikasi tracking kendaraan yang menggunakan layanan cuci steam yang dibangun me
 
 ## Installation
 
-Buka file directory laravel-rentApp menggunakan code editor
-Download dependensi dengan menjalankan perintah:
+Buka file directory laravel-steamWash menggunakan code editor
+Download dependensi dengan perintah:
 
 ```sh
 composer install
